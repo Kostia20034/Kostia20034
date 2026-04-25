@@ -1,5 +1,5 @@
 Hi, I'm Kostia 👋
-Software Developer focused on C++ and systems
+Software Developer focused on C++, Java, Python and systems
 
 I got into programming through problem-solving and algorithms. 
 Right now, I’m focused on mastering data structures, systems, and performance-driven code.

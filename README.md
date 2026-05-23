@@ -1,32 +1,32 @@
 # Hi, I'm Kostiantyn (Kostia) 👋
 
-I'm a Senior CS student at the University of Illinois Chicago passionate about backend development and building full stack applications. About 90% of what I know is self-taught — and the deeper I go, the more fascinating it gets.
+Senior CS student at the **University of Illinois Chicago** (GPA: 4.00) passionate about backend development and building things that actually work under the hood. About 90% of what I know is self-taught — and the deeper I go, the more fascinating it gets.
 
-Currently seeking **Summer 2026 SWE Internships**.
+🔍 Currently seeking **SWE Internships & Junior Developer roles**
 
 ---
 
 ## 🚀 Projects
 
-| Project | Tech | Description |
-|---------|------|-------------|
-| [Product API](https://github.com/Kostia20034/Product-api) + [Frontend](https://github.com/Kostia20034/product-frontend) | Java, Spring Boot, PostgreSQL, React, Tailwind CSS, JWT | Full stack product management app with JWT auth, Spring Security, and React UI |
-| [AI Study Assistant](https://github.com/Kostia20034/AI-Study-Assistant) | Python, Ollama, LLaMA 3.2, Streamlit | Locally running AI that learns from your class notes with persistent memory and quiz mode |
-| [Task Tracker CLI](https://github.com/Kostia20034/Task-Tracker) | C++ | CLI task manager with JSON persistence and full CRUD |
+| Project | Tech | Live |
+|---------|------|------|
+| [Product API](https://github.com/Kostia20034/Product-api) + [Frontend](https://github.com/Kostia20034/product-frontend) | Java, Spring Boot, PostgreSQL, React, Tailwind, JWT, Docker | [Live Demo](https://product-frontend-vm4l.vercel.app) |
+| [AI Study Assistant](https://github.com/Kostia20034/AI-Study-Assistant) | Python, Ollama, LLaMA 3.2, Streamlit | Local AI |
+| [Task Tracker CLI](https://github.com/Kostia20034/Task-Tracker) | C++ | CLI Tool |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, C++, Python, C, JavaScript
-
-**Backend:** Spring Boot, Spring Security, JPA/Hibernate, JWT, REST APIs, Swagger/OpenAPI, Maven
+**Backend:** Java, Spring Boot, Spring Security, JWT, JPA/Hibernate, REST APIs, Maven
 
 **Frontend:** React, Tailwind CSS, JavaScript ES6+
 
 **Databases:** PostgreSQL, MySQL, H2
 
-**Version Control:** Git, GitHub
+**DevOps:** Docker, Docker Compose, Railway, Vercel
+
+**Languages:** Java, C++, Python, C, JavaScript
 
 ---
 
